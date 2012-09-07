@@ -13,15 +13,6 @@ h1 {
 	margin: .6em 0
 }
 
-#ajax-spinner {
-	margin: 15px 0 0 15px;
-	padding: 13px;
-	background: white url('../images/spinner.gif') no-repeat 50% 50%;
-	font-size: 0;
-	z-index: 123456;
-	display: none;
-}
-
 div.flash {
 	color: black;
 	background: #FFF9D7;
